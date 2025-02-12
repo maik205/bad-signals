@@ -1,5 +1,7 @@
 [package]
 name = "bad-signals"
+description = "This package provides a Signal based reactivity pattern based on Angular Signals"
+license = "The Unlicensed"
 version = "0.1.0"
 edition = "2021"
 
